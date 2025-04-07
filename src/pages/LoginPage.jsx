@@ -101,7 +101,7 @@ export default function LoginPage() {
           }}
           onClick={googleLogin}
         >
-          Continue with google
+          Continue with Google
         </button>
       </div>
     </div>
